@@ -1,0 +1,9 @@
+{
+  "name": "damp-plains-53359",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "0.12.1",
+    "npm": "3.10.9"
+  }
+}
